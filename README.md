@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋, I'm Krish Savaliya
 
-<!--
-**krishsavaliya097-spec/krishsavaliya097-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I am an aspiring AI/ML Engineer currently pursuing a Master of Computer Applications (MCA). I am passionate about Artificial Intelligence, Machine Learning, Data Science, and building practical AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am learning Deep Learning with PyTorch and continuously improving my skills by building real-world projects.
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning (PyTorch)
+- 📊 Data Science
+- 💻 Python Development
+- 📚 Building AI/ML Projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
+- Python
+- SQL
+
+**Libraries & Frameworks**
+
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- PyTorch (Learning)
+
+**Tools**
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Anaconda
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 CreditWise - Loan Approval Prediction System
+
+- Built a Machine Learning model using Scikit-learn.
+- Performed data preprocessing and feature engineering.
+- Evaluated classification performance.
+
+### 🔹 SmartCart - Customer Segmentation System
+
+- Developed a K-Means clustering model.
+- Performed customer segmentation.
+- Generated business insights through data visualization.
+
+---
+
+## 🎯 Currently Learning
+
+- Deep Learning
+- Neural Networks
+- PyTorch
+- Computer Vision (Upcoming)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **krishsavaliya097@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/savaliya-krish
+
+---
+
+⭐ Always learning, always building.
