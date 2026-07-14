@@ -1,3 +1,7 @@
+<img width="1666" height="263" alt="git hub" src="https://github.com/user-attachments/assets/0cee7288-87c6-469f-8af7-70e071378dd5" />
+
+
+
 # Hi 👋, I'm Krish Savaliya
 
 ## Aspiring AI/ML Engineer
